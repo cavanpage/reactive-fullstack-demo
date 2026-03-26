@@ -8,12 +8,12 @@ The backend streams live JVM metrics (heap usage, CPU load, thread count, GC pau
 
 ## Prerequisites
 
-- **JDK 21+** — for the backend
-- **Node.js 18+** — for the frontend
+- **JDK 21+** for the backend
+- **Node.js 18+** for the frontend
 
 ## Getting started
 
-You need two terminals — one for the backend, one for the frontend.
+You need two terminals: one for the backend, one for the frontend.
 
 ### 1. Start the backend
 
